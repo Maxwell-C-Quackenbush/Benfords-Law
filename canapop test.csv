@@ -1,0 +1,298 @@
+rank,pop,type,name,prov
+1,2731571,Independent city,Toronto,ON
+2,2463431,Regional district,Metro Vancouver,BC
+3,1942044,Equivalent to RCM[N 2],Montreal,QC
+4,1498778,Division,Division No. 6,AB
+5,1381739,Regional municipality,Peel[N 3],ON
+6,1366050,Division,Division No. 11,AB
+7,1109909,Regional municipality,York,ON
+8,934243,Independent city,Ottawa,ON
+9,708823,Division,Division No. 11,MB
+10,645862,Regional municipality,Durham,ON
+11,569717,Equivalent to RCM[N 2],Quebec[N 4],QC
+12,548435,Regional municipality,Halton[N 3],ON
+13,536917,Independent city,Hamilton,ON
+14,535154,Regional municipality,Waterloo,ON
+15,479650,County,Simcoe,ON
+16,455526,County,Middlesex,ON
+17,447888,Regional municipality,Niagara,ON
+18,422993,Equivalent to RCM[N 2],Laval,QC
+19,415347,Equivalent to RCM[N 2],Longueuil,QC
+20,403390,Regional municipality,Halifax,NS
+21,398953,County,Essex,ON
+22,383360,Regional district,Capital,BC
+23,303423,Division,Division No. 11,SK
+24,295934,Regional district,Fraser Valley,BC
+25,276245,Equivalent to RCM[N 2],Gatineau,QC
+26,270348,Division,Division No. 1,NL
+27,262837,Division,Division No. 6,SK
+28,222726,County,Wellington County,ON
+29,209395,Division,Division No. 8,AB
+30,194882,Regional district,Central Okanagan,BC
+31,171443,RCM,Roussillon,QC
+32,169729,Division,Division No. 2,AB
+33,167549,City + RCM,Le Saguenay-et-son-Fjord,QC
+34,161647,Independent city,Greater Sudbury,ON
+35,161323,Equivalent to RCM[N 2],Sherbrooke,QC
+36,158267,RCM,Les Moulins,QC
+37,157103,RCM,ThÇräse-De Blainville[N 5],QC
+38,155698,Regional district,Nanaimo,BC
+39,153030,City + RCM,Francheville,QC
+40,150475,County,Frontenac,ON
+41,149623,County,Westmorland,NB
+42,149349,RCM,Vaudreuil-Soulanges,QC
+43,146048,District,Thunder Bay,ON
+44,143414,Equivalent to RCM[N 2],LÇvis,QC
+45,138236,County,Peterborough,ON
+46,136445,County,Hastings,ON
+47,134808,Two single-tier municipalities,Brant,ON
+48,132663,Regional district,Thompson-Nicola,BC
+49,128170,RCM,La Riviäre-du-Nord,QC
+50,126638,County,Lambton,ON
+51,124759,RCM,L'Assomption[N 6],QC
+52,124420,RCM,La VallÇe-du-Richelieu,QC
+53,120380,Division,Division No. 19,AB
+54,117443,RCM,Le Haut-Richelieu,QC
+55,114094,District,Algoma District,ON
+56,113429,County,Stormont Dundas and Glengarry,ON
+57,110862,County,Oxford,ON
+58,109787,Two single-tier municipalities,Haldimand-Norfolk,ON
+59,103397,RCM,Drummond,QC
+60,102394,County,Renfrew,ON
+61,102042,Single-tier municipality,Chatham-Kent,ON
+62,100546,County,Leeds and Grenville,ON
+63,98722,Regional municipality,Cape Breton,NS
+64,99411,County,York[N 7],NB
+65,98203,RCM,Deux-Montagnes[N 5],QC
+66,97449,Division,Division No. 10,AB
+67,94506,Regional district,Fraser-Fort George,BC
+68,93830,County,Grey,ON
+69,89333,County,Prescott and Russell,ON
+70,88978,County,Elgin,ON
+71,88306,RCM,La Haute-Yamaska[N 8],QC
+72,87099,RCM,Les Maskoutains,QC
+73,85908,Division,Division No. 15,SK
+74,85598,County,Northumberland,ON
+75,84354,Regional district,North Okanagan,BC
+76,83739,Regional district,Cowichan Valley,BC
+77,83150,District,Nipissing,ON
+78,83022,Regional district,Okanagan-Similkameen,BC
+79,82627,Division,Division No. 1,AB
+80,82017,County,Queens,PE
+81,79682,District,Cochrane,ON
+82,78444,County,Gloucester,NB
+83,77550,RCM,Marguerite-D'Youville (formerly Lajemmerais[N 9]),QC
+84,76796,County,Perth,ON
+85,75571,Division,Division No. 2,MB
+86,75423,Single-tier,Kawartha Lakes,ON
+87,74020,County,Saint John,NB
+88,73988,Division,Division No. 16,AB
+89,72014,RCM,Arthabaska,QC
+90,71016,Division,Division No. 13,AB
+91,68941,County,Kings,NB
+92,68746,Division,Division No. 7,MB
+93,68698,County,Lanark,ON
+94,68147,County,Bruce,ON
+95,67120,Division,Division No. 12,AB
+96,66550,RCM,Joliette[N 6],QC
+97,66527,Regional district,Comox Valley[N 10],BC
+98,65533,District,Kenora,ON
+99,64320,RCM,Beauharnois-Salaberry,QC
+100,62942,Regional district,Peace River,BC
+101,61988,Regional district,Cariboo,BC
+102,61735,County,Dufferin,ON
+103,61590,Division,Division No. 17,AB
+104,60600,County,Kings,NS
+105,60599,Regional municipality,Muskoka,ON
+106,60439,Regional district,East Kootenay,BC
+107,59517,Regional district,Central Kootenay,BC
+108,59297,County,Huron,ON
+109,58314,RCM,Brome-Missisquoi[N 8],QC
+110,56650,RCM,Rimouski-Neigette,QC
+111,55708,Division,Division No. 5,AB
+112,54796,Division,Division No. 3,MB
+113,53008,RCM,Portneuf,QC
+114,52741,RCM,Lac-Saint-Jean-Est,QC
+115,52596,RCM,Montcalm,QC
+116,52406,RCM,Beauce-Sartigan,QC
+117,51366,Regional district,Columbia-Shuswap,BC
+118,51025,RCM,Pierre-De Saurel,QC
+119,50585,County,Colchester,NS
+120,50513,Equivalent to RCM[N 2],Mirabel,QC
+121,50435,RCM,Matawinie,QC
+122,50415,RCM,MemphrÇmagog,QC
+123,49349,Equivalent to RCM[N 2],Shawinigan,QC
+124,49094,RCM,Les Collines-de-l'Outaouais,QC
+125,49086,Division,Division No. 13,MB
+126,47900,Division,Division No. 17,SK
+127,47195,Division,Division No. 7,SK
+128,47126,County,Lunenburg,NS
+129,45902,RCM,Les Laurentides,QC
+130,44952,County,Northumberland[N 7],NB
+131,44671,Regional district,Strathcona[N 10],BC
+132,44561,Administrative region,Nord-du-QuÇbec (JamÇsie-Nunavik),QC
+133,43748,County,Pictou,NS
+134,43730,County,Prince,PE
+135,43485,RCM,La Jacques-Cartier,QC
+136,43226,RCM,La VallÇe-de-l'Or,QC
+137,42888,County,Lennox and Addington,ON
+138,42824,District,Parry Sound,ON
+139,42665,Regional district,Squamish-Lillooet,BC
+140,42558,County,Hants,NS
+141,42346,RCM,Les Appalaches,QC
+142,42334,Equivalent to RCM[N 2],Rouyn-Noranda,QC
+143,42189,RCM,D'Autray,QC
+144,42165,Division,Division No. 22,MB
+145,42014,Division,Division No. 5,NL
+146,41877,RCM,Les Pays-d'en-Haut,QC
+147,41574,Division,Division No. 7,AB
+148,39322,Two regional county municipalities,Sept-Riviäres?Caniapiscau,QC
+149,38956,Division,Division No. 3,AB
+150,38594,Division,Division No. 15,AB
+151,38345,Division,Division No. 6,NL
+152,37999,Division,Division No. 16,SK
+153,37896,Regional district,Bulkley-Nechako,BC
+154,37367,Regional district,Kitimat-Stikine[N 11],BC
+155,37233,RCM,Bellechasse,QC
+156,37064,Division,Division No. 18,SK
+157,36785,RCM,La Nouvelle-Beauce,QC
+158,36536,RCM,Rouville,QC
+159,36316,RCM,MaskinongÇ,QC
+160,36096,Division,Division No. 14,SK
+161,35874,Territory,Yukon,YT
+162,35794,Division,Division No. 8,NL
+163,35634,Division,Division No. 9,SK
+164,35243,RCM,Antoine-Labelle,QC
+165,34092,Division,Division No. 7,NL
+166,33958,RCM,Riviäre-du-Loup,QC
+167,32741,County,Madawaska,NB
+168,32389,RCM,Argenteuil,QC
+169,32251,District,Timiskaming District,ON
+170,31766,Division,Division No. 1,SK
+171,31750,Division,Division No. 5,SK
+172,31741,RCM,Lotbiniäre,QC
+173,31447,Regional district,Kootenay Boundary,BC
+174,31285,RCM,Le Domaine-du-Roy,QC
+175,31027,RCM,Manicouagan,QC
+176,30981,Regional district,Alberni-Clayoquot,BC
+177,30955,County,Restigouche,NB
+178,30718,Division,Division No. 8,SK
+179,30686,RCM,Le Val-Saint-Franáois,QC
+180,30475,County,Kent,NB
+181,30005,County,Cumberland,NS
+182,29970,Regional district,Sunshine Coast,BC
+183,29291,Division,Division No. 14,AB
+184,29158,County,Albert,NB
+185,28199,RCM,La Cìte-de-BeauprÇ,QC
+186,27870,RCM,Les Jardins-de-Napierville,QC
+187,27644,County,Sunbury,NB
+188,26220,County,Carleton,NB
+189,25428,County,Charlotte,NB
+190,24793,RCM,Maria-Chapdelaine,QC
+191,24735,Single-tier,Prince Edward County,ON
+192,24639,RCM,Abitibi,QC
+192,24639,Division,Division No. 10,NL
+194,24419,County,Yarmouth,NS
+195,24391,Division,Division No. 9,MB
+196,24036,Division,Division No. 18,MB
+197,23986,Division,Division No. 12,SK
+198,23683,Division,Division No. 12,MB
+199,23425,RCM,L'êrable,QC
+200,23224,Division,Division No. 13,SK
+201,23159,RCM,Nicolet-Yamaska,QC
+202,22832,RCM,Papineau,QC
+203,22825,Division,Division No. 2,SK
+204,22698,RCM,Montmagny,QC
+205,22454,RCM,Le Haut-Saint-Laurent,QC
+206,22335,RCM,Le Haut-Saint-Franáois,QC
+207,22205,Division,Division No. 17,MB
+208,21983,Division,Division No. 21,MB
+209,21546,District,Sudbury District[N 12],ON
+210,21462,RCM,Le Granit,QC
+211,21379,Division,Division No. 15,MB
+212,21301,RCM,Matane,QC
+213,21073,RCM,Kamouraska,QC
+214,20869,Division,Division No. 9,AB
+215,20591,County,Annapolis,NS
+216,20538,RCM,Abitibi-Ouest,QC
+217,20404,RCM,BÇcancour,QC
+218,20387,Division,Division No. 4,NL
+219,20372,Division,Division No. 2,NL
+220,20182,RCM,La VallÇe-de-la-Gatineau,QC
+221,20110,District,Rainy River,ON
+222,20090,Region,Region 6[N 13],NT
+223,20070,Regional district,Powell River,BC
+224,19574,RCM,TÇmiscouata,QC
+225,19301,County,Antigonish,NS
+226,19125,RCM,Robert-Cliche,QC
+227,18988,Region,Baffin,NU
+228,18621,Division,Division No. 14,MB
+229,18617,County,Victoria,NB
+230,18534,Division,Division No. 1,MB
+231,18497,RCM,Coaticook,QC
+232,18210,RCM,La Mitis,QC
+233,18133,Regional district,Skeena-Queen Charlotte,BC
+234,18062,County,Haliburton,ON
+235,17925,RCM,La MatapÇdia,QC
+236,17798,RCM,L'Islet,QC
+237,17660,RCM,Bonaventure,QC
+238,17323,County,Digby,NS
+239,17282,RCM,Le Rocher-PercÇ,QC
+240,17235,County,Inverness,NS
+241,17160,County,Kings,PE
+242,17117,RCM,La Cìte-de-GaspÇ,QC
+243,16563,Division,Division No. 10,SK
+244,16536,RCM,Les Etchemins,QC
+245,16518,Division,Division No. 19,MB
+246,15980,RCM,TÇmiscamingue,QC
+247,15607,Division,Division No. 9,NL
+248,15594,RCM,Acton,QC
+249,15560,Division,Division No. 3,NL
+250,15509,RCM,Charlevoix-Est,QC
+251,15059,Equivalent to RCM[N 2],La Tuque,QC
+252,14488,Division,Division No. 18,AB
+253,14461,RCM,Avignon,QC
+254,14286,RCM,Les Sources,QC
+255,14251,RCM,Pontiac,QC
+256,13968,Division,Division No. 8,MB
+257,13966,County,Shelburne,NS
+258,13255,District,Manitoulin[N 12],ON
+259,13176,Division,Division No. 5,MB
+260,12997,RCM,Charlevoix,QC
+261,12610,Division,Division No. 3,SK
+262,12475,Equivalent to RCM[N 2],Les ?les-de-la-Madeleine,QC
+263,12358,RCM,MÇkinac,QC
+264,11941,Division,Division No. 10,MB
+265,11323,Two regional county municipalities,Minganie?Le Golfe-du-Saint-Laurent,QC
+266,11316,RCM,La Haute-GaspÇsie,QC
+267,11035,Regional district,Mount Waddington,BC
+268,10854,Division,Division No. 4,SK
+269,10846,RCM,La Haute-Cìte-Nord,QC
+270,10472,County,Queens,NB
+271,10413,Region,Keewatin,NU
+272,10351,County,Queens,NS
+274,9986,Division,Division No. 4,MB
+273,10317,Division,Division No. 6,MB
+275,9848,Division,Division No. 16,MB
+276,9621,Division,Division No. 20,MB
+277,9573,Division,Division No. 4,AB
+278,8971,Division,Division No. 23,MB
+279,8964,County,Richmond,NS
+280,8694,RCM,Les Basques,QC
+281,7625,County,Guysborough County,NS
+282,7089,County,Victoria County,NS
+283,7082,RCM,L'?le-d'OrlÇans,QC
+284,6980,Region,Region 5[N 13],NT
+285,6543,Region,Kitikmeot,NU
+286,6372,Region,Region 1[N 13],NT
+287,5393,Regional municipality,Northern Rockies Regional Municipality,BC
+288,3319,Regional district,Central Coast,BC
+289,3160,Region,Region 4[N 13],NT
+290,2751,Region,Region 3[N 13],NT
+291,2558,Division,Division No. 11,NL
+292,2433,Region,Region 2[N 13],NT
+293,740,Region,Stikine,BC
+,,,,
+,,,,
+,,,,
+,,,,
